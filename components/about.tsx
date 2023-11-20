@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-      Hello! I'm a junior full-stack developer with experience in various technologies such as React, Redux, JavaScript, Sequelize, MongoDB, PostgreSQL, MySQL, Tailwind, Bootstrap, Express, and Node.js. I specialize primarily in front-end development and integrating and consuming APIs and REST APIs.
+      Hello! I'm a junior full-stack developer with experience in various technologies such as React, Redux, JavaScript, Typescript, Sequelize, MongoDB, PostgreSQL, MySQL, Tailwind, Bootstrap, Express, Framer Motion and Node.js.
       <br /><br />
       
        I'm passionate about working on challenging projects and finding creative solutions to complex problems. I'm an autonomous, responsible person with teamwork skills, which has allowed me to work on collaborative projects and be part of efficient development teams.
