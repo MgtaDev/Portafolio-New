@@ -40,15 +40,15 @@ export const experiencesData = [
     description:
       " I certify myself as a fullstack developer after completing five months of intensive study in the bootcamp program.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "March - Sep 2023",
   },
   {
     title: "Full-stack Developer",
     location: "Venezuela",
     description:
-      "After enhancing and strengthening the skills and knowledge acquired earlier and during the bootcamp, I decided to start working as a freelance developer.",
+      "After enhancing and strengthening the skills and knowledge acquired earlier and during the bootcamp working in freelance and personal projects, I decided to take a new step as a developer in any professional company.",
     icon: React.createElement(FaReact),
-    date: "2019 - 2021",
+    date: "Sep 2023",
   },
   {
     title: "Full-Stack Developer",
@@ -56,7 +56,7 @@ export const experiencesData = [
     description:
       "Currently looking for a job",
     icon: React.createElement(CgWorkAlt),
-    date: "2021 - present",
+    date: "Present",
   },
 ] as const;
 
