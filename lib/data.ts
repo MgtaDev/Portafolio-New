@@ -66,7 +66,7 @@ export const projectsData = [
     description:
       "Project focused on developing an administrative platform, appointment scheduling, and other functionalities for a Medical Clinic in Venezuela.",
       tags: ["React", "Postgres", "Express.js", "Node.js", "Redux", "Tailwind", "Resend", "React-Spring", "Google Maps", "0Auth2.0", "React Toast"],
-      imageUrl: dentalCareImg,
+      imageUrl: '/public/Dentalcare.png',
       url:'https://consultorio-chi.vercel.app/'
   },
   {
@@ -74,7 +74,7 @@ export const projectsData = [
     description:
       "Project focused on developing an e-commerce platform for a hybrid electronics store in Venezuela.",
       tags: ["React", "Postgres", "Express.js", "Node.js", "Redux", "Tailwind", "Email js", "React-Spring", "Google Maps", "Auth 0", "React Toast"],
-    imageUrl: enmableImg,
+    imageUrl: '/public/Enmable.png',
     url:'https://e-commerce-1-one.vercel.app/'
   },
   {
@@ -82,7 +82,7 @@ export const projectsData = [
     description:
       "This project centered around developing a Landing page for filtering and sorting cars, which will serve as the foundation for creating a car showcase and an online car rental and appointment scheduling application.",
     tags: ["React", "Next.js", "Typescript", "Tailwind", "Framer Motion"],
-    imageUrl: carhubImg,
+    imageUrl: '/public/CarHub.png',
     url:'https://car-rent-app-beta.vercel.app/'
   },
   
