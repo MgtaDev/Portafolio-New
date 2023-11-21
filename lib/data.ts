@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import dentalCareImg from "@/public/DentalCare.png";
-import enmableImg from "@/public/Enmable.png";
-import carhubImg from "@/public/CarHub.png";
+import dentalCareImg from "../public/Dentalcare.png";
+import enmableImg from "../public/Enmable.png";
+import carhubImg from "../public/CarHub.png";
 
 export const links = [
   {
