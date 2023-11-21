@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-// import dentalCareImg from "../public/Dentalcare.png";
-// import enmableImg from "../public/Enmable.png";
-// import carhubImg from "../public/CarHub.png";
+import dentalCareImg from "../public/Dentalcare.png";
+import enmableImg from "../public/Enmable.png";
+import carhubImg from "../public/CarHub.png";
 
 export const links = [
   {
@@ -66,7 +66,7 @@ export const projectsData = [
     description:
       "Project focused on developing an administrative platform, appointment scheduling, and other functionalities for a Medical Clinic in Venezuela.",
       tags: ["React", "Postgres", "Express.js", "Node.js", "Redux", "Tailwind", "Resend", "React-Spring", "Google Maps", "0Auth2.0", "React Toast"],
-      imageUrl: '/public/Dentalcare.png',
+      imageUrl: dentalCareImg,
       url:'https://consultorio-chi.vercel.app/'
   },
   {
@@ -74,7 +74,7 @@ export const projectsData = [
     description:
       "Project focused on developing an e-commerce platform for a hybrid electronics store in Venezuela.",
       tags: ["React", "Postgres", "Express.js", "Node.js", "Redux", "Tailwind", "Email js", "React-Spring", "Google Maps", "Auth 0", "React Toast"],
-    imageUrl: '/public/Enmable.png',
+    imageUrl: enmableImg,
     url:'https://e-commerce-1-one.vercel.app/'
   },
   {
@@ -82,7 +82,7 @@ export const projectsData = [
     description:
       "This project centered around developing a Landing page for filtering and sorting cars, which will serve as the foundation for creating a car showcase and an online car rental and appointment scheduling application.",
     tags: ["React", "Next.js", "Typescript", "Tailwind", "Framer Motion"],
-    imageUrl: '/public/CarHub.png',
+    imageUrl: carhubImg,
     url:'https://car-rent-app-beta.vercel.app/'
   },
   
