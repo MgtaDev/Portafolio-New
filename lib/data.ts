@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import dentalCareImg from "../public/Dentalcare.png";
 import enmableImg from "../public/Enmable.png";
 import carhubImg from "../public/CarHub.png";
+import NetflixClone from '../public/NetlfixClone.png'
 
 export const links = [
   {
@@ -68,6 +69,14 @@ export const projectsData = [
       tags: ["React", "Postgres", "Express.js", "Node.js", "Redux", "Tailwind", "Resend", "React-Spring", "Google Maps", "0Auth2.0", "React Toast"],
       imageUrl: dentalCareImg,
       url:'https://consultorio-chi.vercel.app/'
+  },
+   {
+    title: "Netflix Clone",
+    description:
+      "Project focused on developing an Netflix clone with similar functionalities and firebase authenticaction",
+      tags: ["React", "MongoDb", "Express.js", "Node.js", "Redux", "Styled-Components", "Firebase", "Framer Motion", "Resend" , "React Toast"],
+    imageUrl: NetflixClone,
+    url:'https://netflixx-clone-i6im.vercel.app/'
   },
   {
     title: "Enmable Ecommerce",
