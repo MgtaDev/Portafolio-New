@@ -68,7 +68,7 @@ export const projectsData = [
     title: "DentalCare, a Web Booking App",
     description:
       "Project focused on developing an administrative platform, appointment scheduling, and other functionalities for a Medical Clinic in Venezuela.",
-      tags: ["React", "Postgres", "Express.js", "Node.js", "Redux", "Tailwind", "Resend", "React-Spring", "Google Maps", "Firebase", "React Toast"],
+      tags: ["React", "Postgres", "Express.js", "Node.js", "Redux", "Tailwind", "Resend", "React-Spring", "Google Maps", "Firebase"],
       imageUrl: dentalCareImg,
       url:'https://consultorio-chi.vercel.app/'
   },
