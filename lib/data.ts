@@ -8,6 +8,7 @@ import carhubImg from "../public/CarHub.png";
 import NetflixClone from '../public/NetlfixClone.png'
 import Touluse from '../public/Toulouse.png'
 import Havre from '../public/Havre.png'
+import independant from '../public/independant.png'
 
 export const links = [
   {
@@ -65,6 +66,14 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "DISTRIBUTION INDEPENDANT",
+    description:
+    "Info-blog created with a personalized CMS, HTML and CSS and other tools from the CMS for a French Tech Company wich is developing his own CMS.",
+    tags: ["CMS", "HTML", "CSS"],
+    imageUrl: independant,
+    url:'https://job-distributeur.fr/'
+  },
+  {
     title: "DentalCare, a Web Booking App",
     description:
       "Project focused on developing an administrative platform, appointment scheduling, and other functionalities for a Medical Clinic in Venezuela.",
@@ -75,7 +84,7 @@ export const projectsData = [
   {
     title: "DISTRIBUTION DE FLYERS À TOULOUSE ",
     description:
-    "Project focused on replicate a blog with a personalized CMS, HTML and CSS and other tools from the CMS for a French Tech Company wich is developing his own CMS.",
+    "Info-blog created with apersonalized CMS, HTML and CSS and other tools from the CMS for a French Tech Company wich is developing his own CMS.",
     tags: ["CMS", "HTML", "CSS"],
     imageUrl: Touluse,
     url:'https://coline.dev-vente-pro.com/'
@@ -83,7 +92,7 @@ export const projectsData = [
   {
     title: "DISTRIBUTION DE PROSPECTUS AU HAVRE",
     description:
-    "Project focused on replicate a blog with a personalized CMS, HTML and CSS and other tools from the CMS for a French Tech Company wich is developing his own CMS.",
+    "Info-blog created with a personalized CMS, HTML and CSS and other tools from the CMS for a French Tech Company wich is developing his own CMS.",
     tags: ["CMS", "HTML", "CSS"],
     imageUrl: Havre,
     url:'https://riviere.dev-vente-pro.com/'
