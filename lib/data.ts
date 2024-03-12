@@ -56,10 +56,10 @@ export const experiencesData = [
     date: "Sep 2023",
   },
   {
-    title: "Full-Stack Developer",
+    title: "Freelance Developer",
     location: "Remote",
     description:
-      "Currently looking for a job in a tech company",
+      "I am currently working as a freelance developer for months now, and applying for positions in foreign companies.",
     icon: React.createElement(CgWorkAlt),
     date: "Present",
   },
