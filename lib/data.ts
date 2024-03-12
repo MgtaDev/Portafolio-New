@@ -9,6 +9,7 @@ import NetflixClone from '../public/NetlfixClone.png'
 import Touluse from '../public/Toulouse.png'
 import Havre from '../public/Havre.png'
 import independant from '../public/independant.png'
+import Oasis from '../public/Oasis.png'
 
 export const links = [
   {
@@ -65,6 +66,14 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Oasis Ven",
+    description:
+    "Landing page created for a Water distribution company in Venezuela",
+    tags: ["HTML", "CSS", "Tailwind", "Vite", "React-intersection Observer", "Framer Motion"],
+    imageUrl: Oasis,
+    url:'https://oasisven.com'
+  },
   {
     title: "DISTRIBUTION INDEPENDANT",
     description:
