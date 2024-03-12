@@ -87,15 +87,7 @@ export const projectsData = [
     "Info-blog created with apersonalized CMS, HTML and CSS and other tools from the CMS for a French Tech Company wich is developing his own CMS.",
     tags: ["CMS", "HTML", "CSS"],
     imageUrl: Touluse,
-    url:'https://coline.dev-vente-pro.com/'
-  },
-  {
-    title: "DISTRIBUTION DE PROSPECTUS AU HAVRE",
-    description:
-    "Info-blog created with a personalized CMS, HTML and CSS and other tools from the CMS for a French Tech Company wich is developing his own CMS.",
-    tags: ["CMS", "HTML", "CSS"],
-    imageUrl: Havre,
-    url:'https://riviere.dev-vente-pro.com/'
+    url:'https://www.distribution-flyers-toulouse.fr/index.html'
   },
   {
     title: "Netflix Clone",
