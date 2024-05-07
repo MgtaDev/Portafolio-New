@@ -9,7 +9,7 @@ import NetflixClone from '../public/NetlfixClone.png'
 import Touluse from '../public/Toulouse.png'
 import Havre from '../public/Havre.png'
 import independant from '../public/independant.png'
-import Oasis from '../public/Oasis.png'
+import Reims from '../public/Reims.png'
 
 export const links = [
   {
@@ -66,7 +66,14 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
-
+{
+    title: "DISTRIBUTION EN REIMS",
+    description:
+    "Info-blog created with a personalized CMS, HTML and CSS and other tools from the CMS for a French Tech Company wich is developing his own CMS.",
+    tags: ["CMS", "HTML", "CSS"],
+    imageUrl: Reims,
+    url:'https://www.distribution-prospectus-reims.fr/'
+  },
   {
     title: "DISTRIBUTION INDEPENDANT",
     description:
