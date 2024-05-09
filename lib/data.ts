@@ -10,6 +10,7 @@ import Touluse from '../public/Toulouse.png'
 import Havre from '../public/Havre.png'
 import independant from '../public/independant.png'
 import Reims from '../public/Reims.png'
+import K from '../public/KontrolFreek.png'
 
 export const links = [
   {
@@ -66,6 +67,14 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+{
+    title: "KontrolFreek Gaming",
+    description:
+    "Info-blog created with a personalized CMS, HTML and CSS and other tools from the CMS for a French Tech Company wich is developing his own CMS.",
+    tags: ["React", "Postgres", "Express.js", "Node.js", "Redux", "Tailwind", "Email.js", "Framer Motion", "Auth 0", "Intersection-Observer"],
+    imageUrl: K,
+    url:'https://kontrol-freek.vercel.app/'
+  },
 {
     title: "DISTRIBUTION EN REIMS",
     description:
