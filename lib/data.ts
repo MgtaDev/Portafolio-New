@@ -70,7 +70,7 @@ export const projectsData = [
 {
     title: "KontrolFreek Gaming",
     description:
-    "Info-blog created with a personalized CMS, HTML and CSS and other tools from the CMS for a French Tech Company wich is developing his own CMS.",
+    "Project focused on developing an e-commerce platform for kontrolfreek store in Venezuela.",
     tags: ["React", "Postgres", "Express.js", "Node.js", "Redux", "Tailwind", "Email.js", "Framer Motion", "Auth 0", "Intersection-Observer"],
     imageUrl: K,
     url:'https://kontrol-freek.vercel.app/'
