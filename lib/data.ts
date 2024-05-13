@@ -73,7 +73,7 @@ export const projectsData = [
     "Project focused on developing an e-commerce platform for kontrolfreek store in Venezuela.",
     tags: ["React", "Postgres", "Express.js", "Node.js", "Redux", "Tailwind", "Email.js", "Framer Motion", "Auth 0", "Intersection-Observer"],
     imageUrl: K,
-    url:'https://kontrol-freek.vercel.app/'
+    url:'https://kontrol-freek-front.vercel.app/'
   },
 {
     title: "DISTRIBUTION EN REIMS",
